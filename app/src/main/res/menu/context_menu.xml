@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_call"
+        android:title="Call"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/action_send_message"
+        android:title="Send Message"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/action_send_email"
+        android:title="Send Email"
+        app:showAsAction="always"
+        />
+</menu>
